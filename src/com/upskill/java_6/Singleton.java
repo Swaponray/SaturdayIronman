@@ -39,6 +39,6 @@ public class Singleton {
 		
 	}
 	
-	
+	// Singleton.java
 
 }
