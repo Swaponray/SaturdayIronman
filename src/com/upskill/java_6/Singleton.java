@@ -40,5 +40,12 @@ public class Singleton {
 	}
 	
 	// Singleton.java
+	//Changes for Git Pull request practice
+	
+     protected static void demo4(){
+		
+		System.out.println(" Demo i method for singleton class");
+		
+	}
 
 }
